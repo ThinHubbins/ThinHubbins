@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
 <h1 align="center">Hi 👋, I'm Chinweze Fredrick</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from Nigeria</h3>
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWU4Z3A3a210cDlzMWdib2oyaXV1ZTFrb2J2NGtyYjJ0NmFyaDhoZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thinhubbins&label=Profile%20views&color=0e75b6&style=flat" alt="thinhubbins" /> </p>
